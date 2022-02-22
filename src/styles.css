@@ -1,0 +1,16 @@
+/* You can add global styles to this file, and also import other style files */
+
+.corpo {
+    background-color:rgb(228, 237, 247);
+}
+
+.cabec {
+    color:rgb(175, 111, 111);
+    font-size: 3em;
+    font-weight: bolder;
+    font-style: italic;
+    text-decoration: underline;
+    width:800px;
+    margin-left:22%;
+    
+}
